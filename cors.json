@@ -1,0 +1,12 @@
+{
+  "CORSConfiguration": {
+    "CORSRule": [
+      {
+        "AllowedOrigin": ["*"],
+        "AllowedMethod": ["GET"],
+        "MaxAgeSeconds": 3000,
+        "AllowedHeader": ["Authorization"]
+      }
+    ]
+  }
+}
